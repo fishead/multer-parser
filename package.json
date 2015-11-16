@@ -1,0 +1,22 @@
+{
+  "name": "multer-parser",
+  "version": "1.0.0",
+  "description": "use multer to parser multipart/form-data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fishead/multer-parser.git"
+  },
+  "author": "fishead <zhchuan7@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fishead/multer-parser/issues"
+  },
+  "homepage": "https://github.com/fishead/multer-parser",
+  "dependencies": {
+    "multer": "^0.1.8"
+  }
+}
